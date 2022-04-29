@@ -1,9 +1,9 @@
-**👋 Hi, I’m @DianPermana**
+**👋 Hi, I’m DianPermana**
 
 - 👀 I’m interested in Quality Assurance, Software testing, Embedded system 
 - 🌱 I’m currently learning Smart Card, Banking, Social commerce  
 - 💞️ I’m looking to collaborate on open source project
-- 📫 How to reach me Linked in Profile
+- 📫 How to reach me Linked in Profile : https://www.linkedin.com/in/dianpermana/
 
 <!---
 DianPermana/DianPermana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
