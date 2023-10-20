@@ -1,9 +1,19 @@
-**👋 Hi, I’m Dian Permana**
+Hey There! 👋
+
+
 
 - 👀 I’m interested in Quality Assurance, Software testing, Embedded system 
-- 🌱 I’m currently learning Smart Card, Banking, Social commerce  
+- 🌱 Experience in Embedded system,  Smart Card, Banking, Social commerce  
 - 💞️ I’m looking to collaborate on open source project, New thing ecosystem Engineering in test
 - 📫 How to reach me Linked in Profile : https://www.linkedin.com/in/dianpermana/
+
+## Languages & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=py,java,androidstudio,latex,gherkin,arduino,raspberrypi,jenkins,regex&theme=light)](https://skillicons.dev)
+
+
+
+![](https://komarev.com/ghpvc/?username=DianPermana&style=flat-square)
 
 **Let's GO**
 <!---
