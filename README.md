@@ -4,7 +4,6 @@
 - 🌱 Experience in Embedded system,  Smart Card, Banking System, Social E-commerce  
 - 💞️ I’m looking to collaborate on open source project, New thing ecosystem Engineering in test
 - 🙋 Ask me anything related to Test & Code
-- 📫 How to reach me Linked in Profile : https://www.linkedin.com/in/dianpermana/
 
 ## Some Tools I Have Used and Learned
 [![My Skills](https://skillicons.dev/icons?i=java,py,cs,javascript,arduino,raspberrypi,idea,selenium,gherkin,nodejs,androidstudio,jenkins,regex,postman,powershell,latex,github,gitlab&theme=light)](https://skillicons.dev)
