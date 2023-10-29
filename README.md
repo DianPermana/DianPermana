@@ -1,17 +1,16 @@
-Hey There! 👋
+# Hi There👋
 
-
-
-- 👀 I’m interested in Quality Assurance, Software testing, Embedded system 
-- 🌱 Experience in Embedded system,  Smart Card, Banking, Social commerce  
+- 👀 I’m interested in *Robotic, AI & Quality Assurance* 
+- 🌱 Experience in Embedded system,  Smart Card, Banking System, Social E-commerce  
 - 💞️ I’m looking to collaborate on open source project, New thing ecosystem Engineering in test
+- 🙋 Ask me anything related to Test & Code
 - 📫 How to reach me Linked in Profile : https://www.linkedin.com/in/dianpermana/
 
-## Languages & Tools
+I share somethimes. Mostly about Test and Code : https://www.youtube.com/channel/UCI7-bMw19aKm91SJR9aWiXA
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,androidstudio,latex,gherkin,arduino,raspberrypi,jenkins,regex&theme=light)](https://skillicons.dev)
+## Some Tools I Have Used and Learned
 
-
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cs,py,java,arduino,raspberrypi,selenium,gherkin,vscode,androidstudio,jenkins,regex,postman,powershell,latex,gitlab,idea&theme=light)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=DianPermana&style=flat-square)
 
