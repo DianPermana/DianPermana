@@ -7,7 +7,7 @@
 - 📫 How to reach me Linked in Profile : https://www.linkedin.com/in/dianpermana/
 
 ## Some Tools I Have Used and Learned
-[![My Skills](https://skillicons.dev/icons?i=java,py,cs,javascript,arduino,raspberrypi,idea,selenium,gherkin,androidstudio,jenkins,regex,postman,powershell,latex,github,gitlab&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cs,javascript,arduino,raspberrypi,idea,selenium,gherkin,nodejs,androidstudio,jenkins,regex,postman,powershell,latex,github,gitlab&theme=light)](https://skillicons.dev)
 
 ![](https://komarev.com/ghpvc/?username=DianPermana&style=flat-square)
 
